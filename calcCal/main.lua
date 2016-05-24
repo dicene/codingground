@@ -10,4 +10,4 @@ function calcCal(fat, carbs, prot)
     print(string.format("Calories  : %ic", totalCal))
 end
 
-calcCal(36, 107, 44)
+calcCal(64, 193, 81)
